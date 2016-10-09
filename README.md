@@ -7,4 +7,4 @@ The idea was really just to practice js and coding principles but still keeping 
 
 ##Demo Usage
 
-<img src="https://raw.githubusercontent.com/ronakdev/localconsole/master/demo/demoimage.png" alt="demo usage" />
+<img src="https://github.com/ronakdev/localconsole/raw/master/demo/image.png" alt="demo usage" />
